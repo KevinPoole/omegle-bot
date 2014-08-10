@@ -1,0 +1,19 @@
+{
+	"name":"omegle-bot",
+	"version":"0.0.1",
+	"description":"The quintessential tool set for creating your own omegle bot",
+	"keywords":["omegle","chat","bot","robot","omegle-bot","omegle.com"],
+	"main":"omeglebot.js",
+	"dependencies":{
+		"readline":"",
+		"http":"",
+		"request":"",
+		"colors":"",
+		"async":""
+	},
+	"author":{
+		"name":"Kevin Poole",
+		"email":"kevinjamespoole@cedarville.edu",
+		"url":"http://www.poolepiphany.com"
+	}
+}
